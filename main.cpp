@@ -3,9 +3,7 @@
 #include "functions.h"
 #include <cmath>
 using namespace std;
-
-using namespace std;
-
+//The code simulates a particle along with its dynamics and energy calculations
 int main()
 {
     Particle* p=inputDistribution(3);
